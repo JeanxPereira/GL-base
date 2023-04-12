@@ -1,0 +1,224 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Curves folder_count="5" count="1">
+  <Folder1 name="light" visible="1" folder_count="0" count="1">
+    <Curve1 name="alpha" color="-16776961" visible="1" min_value="0" max_value="100" point_count="23">
+      <Point1 position="5.833333, 0" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point2 position="5.9, 100" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point3 position="6, 55" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point4 position="6.033333, 100" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point5 position="6.166667, 73" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point6 position="6.233333, 100" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point7 position="6.5, 30" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point8 position="6.566667, 100" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point9 position="6.7, 63" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point10 position="6.8, 90" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point11 position="7.166667, 64" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point12 position="7.3, 80" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point13 position="7.9, 60" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point14 position="7.966667, 100" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point15 position="8.1, 48" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point16 position="8.133333, 100" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point17 position="8.3, 70" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point18 position="8.433333, 100" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point19 position="8.633333, 23" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point20 position="8.933333, 100" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point21 position="9.366667, 56" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point22 position="9.4, 90" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point23 position="9.966666, 99" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+    </Curve1>
+  </Folder1>
+  <Folder2 name="background" visible="0" folder_count="0" count="3">
+    <Curve1 name="pos_x" color="-65536" visible="0" point_count="77">
+      <Point1 position="6.5, 400" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point2 position="6.533333, 400" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point3 position="6.666667, 400" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point4 position="6.966667, 400" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point5 position="7.033333, 400" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point6 position="7.133333, 400" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point7 position="7.3, 400" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point8 position="7.333333, 401" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point9 position="7.366667, 401" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point10 position="7.433333, 399" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point11 position="7.666667, 399" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point12 position="7.733333, 399" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point13 position="7.8, 398" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point14 position="7.833333, 398" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point15 position="7.866667, 398" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point16 position="7.9, 398" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point17 position="7.933333, 398" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point18 position="7.966667, 398" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point19 position="8, 398" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point20 position="8.033334, 398" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point21 position="8.066667, 396" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point22 position="8.1, 396" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point23 position="8.133333, 399" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point24 position="8.166667, 399" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point25 position="8.233334, 399" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point26 position="8.266666, 400" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point27 position="8.3, 400" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point28 position="8.333333, 400" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point29 position="8.366667, 400" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point30 position="8.4, 400" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point31 position="8.433333, 400" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point32 position="8.466666, 400" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point33 position="8.5, 400" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point34 position="8.533334, 400" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point35 position="8.566667, 402" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point36 position="8.6, 402" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point37 position="8.633333, 400" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point38 position="8.666667, 401" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point39 position="8.7, 401" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point40 position="8.733334, 401" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point41 position="8.766666, 401" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point42 position="8.8, 401" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point43 position="8.833333, 401" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point44 position="8.866667, 403" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point45 position="8.9, 401" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point46 position="8.933333, 401" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point47 position="8.966666, 401" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point48 position="9, 401" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point49 position="9.033334, 401" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point50 position="9.066667, 401" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point51 position="9.1, 401" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point52 position="9.133333, 401" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point53 position="9.166667, 401" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point54 position="9.2, 401" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point55 position="9.233334, 401" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point56 position="9.266666, 401" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point57 position="9.3, 401" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point58 position="9.333333, 401" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point59 position="9.366667, 401" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point60 position="9.4, 401" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point61 position="9.433333, 401" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point62 position="9.466666, 401" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point63 position="9.5, 401" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point64 position="9.533334, 401" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point65 position="9.566667, 401" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point66 position="9.6, 401" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point67 position="9.633333, 401" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point68 position="9.666667, 401" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point69 position="9.7, 401" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point70 position="9.733334, 401" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point71 position="9.766666, 401" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point72 position="9.8, 401" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point73 position="9.833333, 401" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point74 position="9.866667, 401" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point75 position="9.9, 401" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point76 position="9.933333, 401" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point77 position="9.966666, 401" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+    </Curve1>
+    <Curve2 name="pos_y" color="-16744448" visible="0" point_count="77">
+      <Point1 position="6.5, 300" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point2 position="6.533333, 297" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point3 position="6.666667, 300" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point4 position="6.966667, 299" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point5 position="7.033333, 301" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point6 position="7.133333, 296" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point7 position="7.3, 296" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point8 position="7.333333, 293" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point9 position="7.366667, 297" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point10 position="7.433333, 295" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point11 position="7.666667, 294" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point12 position="7.733333, 296" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point13 position="7.8, 294" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point14 position="7.833333, 295" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point15 position="7.866667, 293" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point16 position="7.9, 297" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point17 position="7.933333, 295" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point18 position="7.966667, 297" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point19 position="8, 293" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point20 position="8.033334, 295" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point21 position="8.066667, 293" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point22 position="8.1, 296" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point23 position="8.133333, 293" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point24 position="8.166667, 294" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point25 position="8.233334, 293" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point26 position="8.266666, 295" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point27 position="8.3, 292" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point28 position="8.333333, 295" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point29 position="8.366667, 293" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point30 position="8.4, 298" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point31 position="8.433333, 293" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point32 position="8.466666, 295" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point33 position="8.5, 294" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point34 position="8.533334, 297" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point35 position="8.566667, 293" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point36 position="8.6, 297" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point37 position="8.633333, 294" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point38 position="8.666667, 297" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point39 position="8.7, 294" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point40 position="8.733334, 297" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point41 position="8.766666, 294" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point42 position="8.8, 299" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point43 position="8.833333, 294" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point44 position="8.866667, 299" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point45 position="8.9, 294" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point46 position="8.933333, 299" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point47 position="8.966666, 295" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point48 position="9, 297" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point49 position="9.033334, 292" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point50 position="9.066667, 295" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point51 position="9.1, 290" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point52 position="9.133333, 293" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point53 position="9.166667, 291" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point54 position="9.2, 299" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point55 position="9.233334, 289" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point56 position="9.266666, 299" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point57 position="9.3, 294" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point58 position="9.333333, 299" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point59 position="9.366667, 294" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point60 position="9.4, 297" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point61 position="9.433333, 292" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point62 position="9.466666, 295" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point63 position="9.5, 285" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point64 position="9.533334, 288" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point65 position="9.566667, 278" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point66 position="9.6, 285" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point67 position="9.633333, 282" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point68 position="9.666667, 290" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point69 position="9.7, 285" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point70 position="9.733334, 288" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point71 position="9.766666, 283" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point72 position="9.8, 285" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point73 position="9.833333, 275" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point74 position="9.866667, 287" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point75 position="9.9, 275" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point76 position="9.933333, 290" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point77 position="9.966666, 273" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+    </Curve2>
+    <Curve3 name="scale" color="-16776961" visible="1" point_count="2">
+      <Point1 position="0, 95" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point2 position="6.233333, 100" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+    </Curve3>
+  </Folder2>
+  <Folder3 name="text1" visible="0" folder_count="0" count="1">
+    <Curve1 name="alpha" color="-16776961" visible="0" min_value="0" max_value="100" point_count="4">
+      <Point1 position="1, 0" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point2 position="1.5, 100" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point3 position="3.3, 100" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point4 position="3.8, 0" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+    </Curve1>
+  </Folder3>
+  <Folder4 name="text2" visible="0" folder_count="0" count="1">
+    <Curve1 name="alpha" color="-16776961" visible="0" min_value="0" max_value="100" point_count="4">
+      <Point1 position="3.666667, 0" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point2 position="3.8, 100" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point3 position="5.3, 100" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point4 position="5.466667, 0" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+    </Curve1>
+  </Folder4>
+  <Folder5 name="text3" visible="0" folder_count="0" count="1">
+    <Curve1 name="alpha" color="-16776961" visible="0" min_value="0" max_value="100" point_count="4">
+      <Point1 position="5.766667, 0" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point2 position="6.166667, 100" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point3 position="7.5, 100" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point4 position="8.266666, 0" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+    </Curve1>
+  </Folder5>
+  <Curve1 name="fade" color="-16777216" visible="1" min_value="0" max_value="255" point_count="4">
+    <Point1 position="0, 0" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+    <Point2 position="0.8666667, 255" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+    <Point3 position="9.6, 255" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+    <Point4 position="9.966666, 0" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+  </Curve1>
+</Curves>

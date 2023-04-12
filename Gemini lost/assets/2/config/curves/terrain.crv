@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Curves folder_count="0" count="1">
+  <Curve1 name="scroll_speed" color="-16776961" visible="1" point_count="2">
+    <Point1 position="0, 0" mode="Symmetric" left_anchor="-0.1455496, -111.6384" right_anchor="0.1455496, 111.6384" />
+    <Point2 position="1, 800" mode="Symmetric" left_anchor="-0.1500109, -120.0762" right_anchor="0.1500109, 120.0762" />
+  </Curve1>
+</Curves>

@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Curves folder_count="7" count="1">
+  <Folder1 name="chuzzle" visible="0" folder_count="0" count="2">
+    <Curve1 name="pos_x" color="-65536" visible="1" point_count="5">
+      <Point1 position="13.53333, 845.674" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point2 position="13.76667, 763.242" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point3 position="13.9, 763.242" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point4 position="18.46667, 763.242" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point5 position="18.7, 799.728" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+    </Curve1>
+    <Curve2 name="pos_y" color="-16744448" visible="1" point_count="5">
+      <Point1 position="13.53333, 624.875" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point2 position="13.76667, 403.546" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point3 position="13.9, 414.29" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point4 position="18.46667, 412.713" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point5 position="18.7, 653.254" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+    </Curve2>
+  </Folder1>
+  <Folder2 name="bush" visible="0" folder_count="0" count="2">
+    <Curve1 name="pos_x" color="-65536" visible="1" point_count="2">
+      <Point1 position="0, 935.224" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point2 position="13.26667, 729.143" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+    </Curve1>
+    <Curve2 name="pos_y" color="-16744448" visible="1" point_count="2">
+      <Point1 position="0, 375.808" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point2 position="13.26667, 375.808" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+    </Curve2>
+  </Folder2>
+  <Folder3 name="characters" visible="0" folder_count="0" count="2">
+    <Curve1 name="pos_x" color="-65536" visible="1" point_count="2">
+      <Point1 position="0, 437.162" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point2 position="13.26667, 369.595" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+    </Curve1>
+    <Curve2 name="pos_y" color="-16744448" visible="1" point_count="2">
+      <Point1 position="0, 413" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point2 position="13.26667, 413" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+    </Curve2>
+  </Folder3>
+  <Folder4 name="background" visible="0" folder_count="0" count="4">
+    <Curve1 name="pos_x" color="-65536" visible="1" point_count="2">
+      <Point1 position="0, 435.135" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point2 position="13.26667, 320.27" mode="Symmetric" left_anchor="-6.54728, 5.902313" right_anchor="6.54728, -5.902313" />
+    </Curve1>
+    <Curve2 name="pos_y" color="-16744448" visible="1" point_count="2">
+      <Point1 position="0, 300" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point2 position="13.26667, 300" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+    </Curve2>
+    <Curve3 name="scale_x" color="-16776961" visible="1" point_count="2">
+      <Point1 position="0, 120" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point2 position="19.96667, 126" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+    </Curve3>
+    <Curve4 name="scale_y" color="-8372160" visible="1" point_count="2">
+      <Point1 position="0, 100" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point2 position="19.96667, 105" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+    </Curve4>
+  </Folder4>
+  <Folder5 name="text1" visible="0" folder_count="0" count="1">
+    <Curve1 name="alpha" color="-16776961" visible="1" min_value="0" max_value="100" point_count="4">
+      <Point1 position="3, 0" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point2 position="3.5, 100" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point3 position="8, 100" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point4 position="8.433333, 0" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+    </Curve1>
+  </Folder5>
+  <Folder6 name="text2" visible="0" folder_count="0" count="1">
+    <Curve1 name="alpha" color="-16776961" visible="1" min_value="0" max_value="100" point_count="4">
+      <Point1 position="8.7, 0" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point2 position="9.1, 100" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point3 position="13.26667, 100" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point4 position="13.7, 0" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+    </Curve1>
+  </Folder6>
+  <Folder7 name="text3" visible="0" folder_count="0" count="1">
+    <Curve1 name="alpha" color="-16776961" visible="1" min_value="0" max_value="100" point_count="4">
+      <Point1 position="14.96667, 0" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point2 position="15.4, 100" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point3 position="18.7, 100" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point4 position="19.96667, 0" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+    </Curve1>
+  </Folder7>
+  <Curve1 name="fade" color="-16777216" visible="1" min_value="0" max_value="255" point_count="4">
+    <Point1 position="0, 0" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+    <Point2 position="2, 255" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+    <Point3 position="18.75, 255" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+    <Point4 position="19.96667, 0" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+  </Curve1>
+</Curves>

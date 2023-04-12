@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Curves folder_count="0" count="1">
+  <Curve1 name="fade" color="-16776961" visible="1" point_count="2">
+    <Point1 position="0, 255" mode="Symmetric" left_anchor="-0.02007125, 0.1620636" right_anchor="0.02007125, -0.1620636" />
+    <Point2 position="0.1, 0" mode="Symmetric" left_anchor="-0.03961128, 0.1335922" right_anchor="0.03961128, -0.1335922" />
+  </Curve1>
+</Curves>

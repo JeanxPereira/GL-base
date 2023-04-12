@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Curves folder_count="2" count="0">
+  <Folder1 name="excited" visible="0" folder_count="0" count="1">
+    <Curve1 name="alpha" color="-65281" visible="1" min_value="0" max_value="255" point_count="3">
+      <Point1 position="0.0004819187, 0" mode="Symmetric" left_anchor="-0.03854308, -0.4385153" right_anchor="0.03854308, 0.4385153" />
+      <Point2 position="0.3244625, 191.752" mode="Symmetric" left_anchor="-0.088, 1.100006" right_anchor="0.088, -1.100006" />
+      <Point3 position="0.6874626, -0.7479835" mode="Symmetric" left_anchor="-0.08800006, 81.40001" right_anchor="0.08800006, -81.40001" />
+    </Curve1>
+  </Folder1>
+  <Folder2 name="love" visible="0" folder_count="0" count="1">
+    <Curve1 name="alpha" color="-65281" visible="0" min_value="0" max_value="255" point_count="2">
+      <Point1 position="0.0004819187, 0" mode="Symmetric" left_anchor="-0.06186878, -0.4384841" right_anchor="0.06186878, 0.4384841" />
+      <Point2 position="0.2, 255" mode="Symmetric" left_anchor="-0.1003281, -0.00743103" right_anchor="0.1003281, 0.00743103" />
+    </Curve1>
+  </Folder2>
+</Curves>

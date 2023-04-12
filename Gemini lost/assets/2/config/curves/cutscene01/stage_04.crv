@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Curves folder_count="3" count="1">
+  <Folder1 name="text1" visible="0" folder_count="0" count="1">
+    <Curve1 name="alpha" color="-16776961" visible="1" min_value="0" max_value="255" point_count="2">
+      <Point1 position="2.7, 0" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point2 position="3.067, 100" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+    </Curve1>
+  </Folder1>
+  <Folder2 name="front" visible="0" folder_count="0" count="1">
+    <Curve1 name="scale" color="-16744448" visible="1" point_count="2">
+      <Point1 position="2, 100" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point2 position="6.5, 108" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+    </Curve1>
+  </Folder2>
+  <Folder3 name="back" visible="0" folder_count="0" count="1">
+    <Curve1 name="scale" color="-16744448" visible="1" point_count="2">
+      <Point1 position="2, 100" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+      <Point2 position="6.5, 104" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+    </Curve1>
+  </Folder3>
+  <Curve1 name="fade" color="-16777216" visible="1" point_count="4">
+    <Point1 position="2, 0" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+    <Point2 position="2.5, 255" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+    <Point3 position="5.8, 255" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+    <Point4 position="6.633333, 0" mode="Symmetric" left_anchor="0, 0" right_anchor="0, 0" />
+  </Curve1>
+</Curves>

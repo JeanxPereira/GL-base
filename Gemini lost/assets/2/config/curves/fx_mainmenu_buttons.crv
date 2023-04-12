@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Curves folder_count="2" count="0">
+  <Folder1 name="appear" visible="1" folder_count="0" count="2">
+    <Curve1 name="x" color="-16776961" visible="0" min_value="0" max_value="0" point_count="2">
+      <Point1 position="0, 0" mode="Symmetric" left_anchor="-0.2, 0" right_anchor="0.2, 0" />
+      <Point2 position="0.8, 0" mode="Symmetric" left_anchor="-0.5984095, 0" right_anchor="0.5984095, 0" />
+    </Curve1>
+    <Curve2 name="y" color="-16744448" visible="0" point_count="2">
+      <Point1 position="0, 0" mode="Symmetric" left_anchor="-0.2257426, 10.08367" right_anchor="0.2257426, -10.08367" />
+      <Point2 position="0.8, -120" mode="Symmetric" left_anchor="-0.2651401, 50.91415" right_anchor="0.2651401, -50.91415" />
+    </Curve2>
+  </Folder1>
+  <Folder2 name="disappear" visible="0" folder_count="0" count="2">
+    <Curve1 name="x" color="-16776961" visible="1" min_value="0" max_value="0" point_count="2">
+      <Point1 position="0, 0" mode="Symmetric" left_anchor="-0.2, 0" right_anchor="0.2, 0" />
+      <Point2 position="0.8, 0" mode="Symmetric" left_anchor="-0.5984095, 0" right_anchor="0.5984095, 0" />
+    </Curve1>
+    <Curve2 name="y" color="-16744448" visible="1" point_count="2">
+      <Point1 position="0, -120" mode="Symmetric" left_anchor="-0.1984692, -37.91367" right_anchor="0.1984692, 37.91367" />
+      <Point2 position="0.8, 0" mode="Symmetric" left_anchor="-0.1924108, -7.083555" right_anchor="0.1924108, 7.083555" />
+    </Curve2>
+  </Folder2>
+</Curves>

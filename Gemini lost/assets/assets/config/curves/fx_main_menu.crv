@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Curves folder_count="0" count="22">
+  <Curve1 name="appear_fade" color="-16777216" visible="1" point_count="2">
+    <Point1 position="0, 0" mode="Symmetric" left_anchor="-0.4986976, -3.02954" right_anchor="0.4986976, 3.02954" />
+    <Point2 position="0.75, 255" mode="Symmetric" left_anchor="-0.04096174, -45.0587" right_anchor="0.04096174, 45.0587" />
+  </Curve1>
+  <Curve2 name="disappear_fade" color="-16777216" visible="1" min_value="0" max_value="255" point_count="2">
+    <Point1 position="-0.03221301, 254.7546" mode="Symmetric" left_anchor="-0.2, 0" right_anchor="0.2, 0" />
+    <Point2 position="0.7083052, 0" mode="Symmetric" left_anchor="-0.2, 0" right_anchor="0.2, 0" />
+  </Curve2>
+  <Curve3 name="appear_y1" color="-16777216" visible="0" point_count="2">
+    <Point1 position="0.5, 0" mode="Symmetric" left_anchor="-0.2, 0" right_anchor="0.2, 0" />
+    <Point2 position="1.5, 0" mode="Symmetric" left_anchor="-0.2, 0" right_anchor="0.2, 0" />
+  </Curve3>
+  <Curve4 name="appear_y2" color="-16777216" visible="0" point_count="2">
+    <Point1 position="0.5, 380" mode="Symmetric" left_anchor="-0.183081, 66.35162" right_anchor="0.183081, -66.35162" />
+    <Point2 position="1.8, 0" mode="Symmetric" left_anchor="-0.4989656, -0.4939127" right_anchor="0.4989656, 0.4939127" />
+  </Curve4>
+  <Curve5 name="appear_y3" color="-16777216" visible="0" point_count="2">
+    <Point1 position="0.5, 550" mode="Symmetric" left_anchor="-0.1859777, 92.0386" right_anchor="0.1859777, -92.0386" />
+    <Point2 position="1.8, 0" mode="Symmetric" left_anchor="-0.505796, 1.116687" right_anchor="0.505796, -1.116687" />
+  </Curve5>
+  <Curve6 name="appear_y4" color="-16777216" visible="0" point_count="2">
+    <Point1 position="0.5, 1200" mode="Symmetric" left_anchor="-0.183081, 202.7635" right_anchor="0.183081, -202.7635" />
+    <Point2 position="1.8, 0" mode="Symmetric" left_anchor="-0.505796, -0.4939127" right_anchor="0.505796, 0.4939127" />
+  </Curve6>
+  <Curve7 name="disappear_y1" color="-16777216" visible="0" point_count="2">
+    <Point1 position="-0.01512156, 0" mode="Symmetric" left_anchor="-0.2, 0" right_anchor="0.2, 0" />
+    <Point2 position="1.5, 0" mode="Symmetric" left_anchor="-0.2, 0" right_anchor="0.2, 0" />
+  </Curve7>
+  <Curve8 name="disappear_y2" color="-16777216" visible="0" point_count="2">
+    <Point1 position="0, 0" mode="Symmetric" left_anchor="-0.2, 0" right_anchor="0.2, 0" />
+    <Point2 position="1.5, 400" mode="Symmetric" left_anchor="-0.2, 0" right_anchor="0.2, 0" />
+  </Curve8>
+  <Curve9 name="disappear_y3" color="-16777216" visible="0" point_count="2">
+    <Point1 position="0, 0" mode="Symmetric" left_anchor="-0.2, 0" right_anchor="0.2, 0" />
+    <Point2 position="1.5, 600" mode="Symmetric" left_anchor="-0.2, 0" right_anchor="0.2, 0" />
+  </Curve9>
+  <Curve10 name="disappear_y4" color="-16777216" visible="0" point_count="2">
+    <Point1 position="0, 0" mode="Symmetric" left_anchor="-0.2, 0" right_anchor="0.2, 0" />
+    <Point2 position="1.5, 800" mode="Symmetric" left_anchor="-0.2, 0" right_anchor="0.2, 0" />
+  </Curve10>
+  <Curve11 name="appear_y5" color="-16777216" visible="0" point_count="2">
+    <Point1 position="0.5, 550" mode="Symmetric" left_anchor="-0.1404095, 69.06726" right_anchor="0.1404095, -69.06726" />
+    <Point2 position="1.8, 0" mode="Symmetric" left_anchor="-0.4989656, -0.4939127" right_anchor="0.4989656, 0.4939127" />
+  </Curve11>
+  <Curve12 name="disappear_y5" color="-16777216" visible="0" point_count="2">
+    <Point1 position="0, 0" mode="Symmetric" left_anchor="-0.2, 0" right_anchor="0.2, 0" />
+    <Point2 position="1.5, 600" mode="Symmetric" left_anchor="-0.2, 0" right_anchor="0.2, 0" />
+  </Curve12>
+  <Curve13 name="appear_scale1" color="-16777216" visible="0" point_count="2">
+    <Point1 position="0.5, 100" mode="Symmetric" left_anchor="-0.2, 0" right_anchor="0.2, 0" />
+    <Point2 position="1.5, 100" mode="Symmetric" left_anchor="-0.2, 0" right_anchor="0.2, 0" />
+  </Curve13>
+  <Curve14 name="appear_scale2" color="-16777216" visible="0" point_count="2">
+    <Point1 position="0.5, 120" mode="Symmetric" left_anchor="-0.2251151, 4.457382" right_anchor="0.2251151, -4.457382" />
+    <Point2 position="1.8, 100" mode="Symmetric" left_anchor="-0.4019148, 0.6657562" right_anchor="0.4019148, -0.6657562" />
+  </Curve14>
+  <Curve15 name="appear_scale3" color="-16777216" visible="0" point_count="2">
+    <Point1 position="0.5, 150" mode="Symmetric" left_anchor="-0.2251151, 10.48911" right_anchor="0.2251151, -10.48911" />
+    <Point2 position="1.8, 100" mode="Symmetric" left_anchor="-0.4019148, 0.6657562" right_anchor="0.4019148, -0.6657562" />
+  </Curve15>
+  <Curve16 name="appear_scale4" color="-16777216" visible="0" point_count="2">
+    <Point1 position="0.5, 180" mode="Symmetric" left_anchor="-0.3337717, 30.73538" right_anchor="0.3337717, -30.73538" />
+    <Point2 position="1.8, 100" mode="Symmetric" left_anchor="-0.4019148, 0.6657562" right_anchor="0.4019148, -0.6657562" />
+  </Curve16>
+  <Curve17 name="appear_scale5" color="-16777216" visible="0" point_count="2">
+    <Point1 position="0.5, 150" mode="Symmetric" left_anchor="-0.1918565, 9.132843" right_anchor="0.1918565, -9.132843" />
+    <Point2 position="1.8, 100" mode="Symmetric" left_anchor="-0.3854141, 0.1513824" right_anchor="0.3854141, -0.1513824" />
+  </Curve17>
+  <Curve18 name="disappear_scale1" color="-16777216" visible="0" point_count="2">
+    <Point1 position="0, 100" mode="Symmetric" left_anchor="-0.2, 0" right_anchor="0.2, 0" />
+    <Point2 position="1.5, 150" mode="Symmetric" left_anchor="-0.2, 0" right_anchor="0.2, 0" />
+  </Curve18>
+  <Curve19 name="disappear_scale2" color="-16777216" visible="0" point_count="2">
+    <Point1 position="0, 100" mode="Symmetric" left_anchor="-0.2, 0" right_anchor="0.2, 0" />
+    <Point2 position="1.5, 150" mode="Symmetric" left_anchor="-0.2, 0" right_anchor="0.2, 0" />
+  </Curve19>
+  <Curve20 name="disappear_scale3" color="-16777216" visible="0" point_count="2">
+    <Point1 position="0, 100" mode="Symmetric" left_anchor="-0.2, 0" right_anchor="0.2, 0" />
+    <Point2 position="1.5, 150" mode="Symmetric" left_anchor="-0.2, 0" right_anchor="0.2, 0" />
+  </Curve20>
+  <Curve21 name="disappear_scale4" color="-16777216" visible="0" point_count="2">
+    <Point1 position="0, 100" mode="Symmetric" left_anchor="-0.2, 0" right_anchor="0.2, 0" />
+    <Point2 position="1.5, 150" mode="Symmetric" left_anchor="-0.2, 0" right_anchor="0.2, 0" />
+  </Curve21>
+  <Curve22 name="disappear_scale5" color="-16777216" visible="0" point_count="2">
+    <Point1 position="0, 100" mode="Symmetric" left_anchor="-0.2, 0" right_anchor="0.2, 0" />
+    <Point2 position="1.5, 150" mode="Symmetric" left_anchor="-0.2, 0" right_anchor="0.2, 0" />
+  </Curve22>
+</Curves>

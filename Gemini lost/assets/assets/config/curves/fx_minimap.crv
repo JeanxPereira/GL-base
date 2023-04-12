@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Curves folder_count="1" count="0">
+  <Folder1 name="goto_frame" visible="0" folder_count="0" count="1">
+    <Curve1 name="alpha" color="-16776961" visible="1" left_extension="Loop" right_extension="Loop" min_value="0" max_value="255" point_count="3">
+      <Point1 position="0.0004819187, 100" mode="Symmetric" left_anchor="-0.244612, 0.7233232" right_anchor="0.244612, -0.7233232" />
+      <Point2 position="0.5, 255" mode="Symmetric" left_anchor="-0.2418481, -0.2677917" right_anchor="0.2418481, 0.2677917" />
+      <Point3 position="1, 100" mode="Symmetric" left_anchor="-0.2412927, 0.02801657" right_anchor="0.2412927, -0.02801657" />
+    </Curve1>
+  </Folder1>
+</Curves>

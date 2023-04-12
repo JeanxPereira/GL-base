@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<gameuninstaller version="1.0">
+	<file>C:\Arquivos de programas\Zylom Games\Gemini Lost Deluxe\zylom.ico</file>
+	<file>C:\Arquivos de programas\Zylom Games\Gemini Lost Deluxe\wrapperresources.dat</file>
+	<file>C:\Arquivos de programas\Zylom Games\Gemini Lost Deluxe\trygames.ico</file>
+	<file>C:\Arquivos de programas\Zylom Games\Gemini Lost Deluxe\realarcade.ico</file>
+	<file>C:\Arquivos de programas\Zylom Games\Gemini Lost Deluxe\readme.htm</file>
+	<file>C:\Arquivos de programas\Zylom Games\Gemini Lost Deluxe\license.txt</file>
+	<file>C:\Arquivos de programas\Zylom Games\Gemini Lost Deluxe\hiscore.xml</file>
+	<file>C:\Arquivos de programas\Zylom Games\Gemini Lost Deluxe\geminilosttm.exe</file>
+	<file>C:\Arquivos de programas\Zylom Games\Gemini Lost Deluxe\geminilosttm.dll</file>
+	<file>C:\Arquivos de programas\Zylom Games\Gemini Lost Deluxe\GameInstlr.exe</file>
+	<file>C:\Arquivos de programas\Zylom Games\Gemini Lost Deluxe\EULA.txt</file>
+	<file>C:\Arquivos de programas\Zylom Games\Gemini Lost Deluxe\assets\strings.xml</file>
+	<file>C:\Arquivos de programas\Zylom Games\Gemini Lost Deluxe\assets\splash\playfirst_animated_logo.swf</file>
+	<file>C:\Arquivos de programas\Zylom Games\Gemini Lost Deluxe\assets\splash\distributor_logo.jpg</file>
+	<directory force="false">C:\Arquivos de programas\Zylom Games\Gemini Lost Deluxe\assets\splash\</directory>
+	<file>C:\Arquivos de programas\Zylom Games\Gemini Lost Deluxe\assets\settings.xml</file>
+	<file>C:\Arquivos de programas\Zylom Games\Gemini Lost Deluxe\assets\credits\credits.txt</file>
+	<directory force="false">C:\Arquivos de programas\Zylom Games\Gemini Lost Deluxe\assets\credits\</directory>
+	<file>C:\Arquivos de programas\Zylom Games\Gemini Lost Deluxe\assets\assets.pfp</file>
+	<directory force="false">C:\Arquivos de programas\Zylom Games\Gemini Lost Deluxe\assets\</directory>
+	<directory force="false">C:\Arquivos de programas\Zylom Games\Gemini Lost Deluxe\\</directory>
+	<file>C:\Documents and Settings\Usuario\Desktop\Gemini Lost Deluxe.lnk</file>
+	<file>C:\Documents and Settings\Usuario\Menu Iniciar\Programas\Zylom Games\Gemini Lost Deluxe\Gemini Lost Deluxe.lnk</file>
+	<directory force="false">C:\Documents and Settings\Usuario\Menu Iniciar\Programas\Zylom Games\Gemini Lost Deluxe</directory>
+	<directory force="false">C:\Documents and Settings\Usuario\Menu Iniciar\Programas\Zylom Games</directory>
+	<file>C:\Documents and Settings\Usuario\Menu Iniciar\Programas\Zylom Games\Gemini Lost Deluxe\Mais jogos.url</file>
+	<directory force="false">C:\Documents and Settings\Usuario\Menu Iniciar\Programas\Zylom Games\Gemini Lost Deluxe</directory>
+	<directory force="false">C:\Documents and Settings\Usuario\Menu Iniciar\Programas\Zylom Games</directory>
+	<file>C:\Documents and Settings\Usuario\Menu Iniciar\Programas\Zylom Games\Gemini Lost Deluxe\Zylom - Have fun..url</file>
+	<directory force="false">C:\Documents and Settings\Usuario\Menu Iniciar\Programas\Zylom Games\Gemini Lost Deluxe</directory>
+	<directory force="false">C:\Documents and Settings\Usuario\Menu Iniciar\Programas\Zylom Games</directory>
+	<registrykey force="true" key="HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall\Gemini Lost Deluxe"></registrykey>
+</gameuninstaller>

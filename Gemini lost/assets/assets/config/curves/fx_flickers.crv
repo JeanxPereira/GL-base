@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Curves folder_count="1" count="0">
+  <Folder1 name="common" visible="0" folder_count="0" count="3">
+    <Curve1 name="scale" color="-16744448" visible="1" point_count="3">
+      <Point1 position="0, 0" mode="Symmetric" left_anchor="-0.07414486, 0.4049011" right_anchor="0.07414486, -0.4049011" />
+      <Point2 position="0.1511707, 149.7504" mode="Symmetric" left_anchor="-0.03513461, 0" right_anchor="0.03513461, 0" />
+      <Point3 position="0.4025183, -0.4049011" mode="Symmetric" left_anchor="-0.1459438, 0.5644938" right_anchor="0.1459438, -0.5644938" />
+    </Curve1>
+    <Curve2 name="angle" color="-32768" visible="1" point_count="0" />
+    <Curve3 name="alpha_" color="-65281" visible="1" point_count="3">
+      <Point1 position="0, 127" mode="Symmetric" left_anchor="-0.07684752, 0.3937988" right_anchor="0.07684752, -0.3937988" />
+      <Point2 position="0.1430627, 254.9028" mode="Symmetric" left_anchor="-0.04189126, 0.1564941" right_anchor="0.04189126, -0.1564941" />
+      <Point3 position="0.4, 127" mode="Symmetric" left_anchor="-0.231262, 0.7351837" right_anchor="0.231262, -0.7351837" />
+    </Curve3>
+  </Folder1>
+</Curves>

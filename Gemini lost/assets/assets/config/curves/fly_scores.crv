@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Curves folder_count="0" count="3">
+  <Curve1 name="pos_y" color="-16776961" visible="1" point_count="3">
+    <Point1 position="0, 0" mode="Symmetric" left_anchor="-0.2, 0" right_anchor="0.2, 0" />
+    <Point2 position="2.275595, -76.74176" mode="Symmetric" left_anchor="-0.7262533, 26.62024" right_anchor="0.7262533, -26.62024" />
+    <Point3 position="6, -110.0171" mode="Symmetric" left_anchor="-1.649057, 0" right_anchor="1.649057, 0" />
+  </Curve1>
+  <Curve2 name="scale" color="-16744448" visible="1" max_value="110" point_count="3">
+    <Point1 position="0, 90" mode="Symmetric" left_anchor="-0.2, 0" right_anchor="0.2, 0" />
+    <Point2 position="1.030589, 110" mode="Symmetric" left_anchor="-1, -7.5" right_anchor="1, 7.5" />
+    <Point3 position="6, 110" mode="Symmetric" left_anchor="-2.314789, 0" right_anchor="2.314789, 0" />
+  </Curve2>
+  <Curve3 name="alpha" color="-65536" visible="1" min_value="0" max_value="255" point_count="4">
+    <Point1 position="0, 0" mode="Symmetric" left_anchor="-0.2, 0" right_anchor="0.2, 0" />
+    <Point2 position="1.056527, 254.6802" mode="Symmetric" left_anchor="-1.322819, -35.93732" right_anchor="1.322819, 35.93732" />
+    <Point3 position="3.728102, 252.0182" mode="Symmetric" left_anchor="-2.340727, 0" right_anchor="2.340727, 0" />
+    <Point4 position="6, 0" mode="Symmetric" left_anchor="-0.1037507, -43.9234" right_anchor="0.1037507, 43.9234" />
+  </Curve3>
+</Curves>

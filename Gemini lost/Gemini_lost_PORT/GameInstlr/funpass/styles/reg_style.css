@@ -1,0 +1,70 @@
+body {
+	background-color: #000000;
+}
+.main {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #333333;
+	font-style: normal;
+	font-variant: normal;
+}
+.style3 { 
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color: #333333;
+	font-size: 11px;
+}
+.mainunderline {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: normal;
+	color: #333333;
+	font-style: normal;
+	font-variant: normal;
+	text-decoration: underline;
+}
+.mainlarge {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: bold;
+	color: #B66F3A;
+	text-decoration: none;
+}
+.code {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #333333;
+	width: 180px;
+	height: 15px;
+	border: none;
+	text-align: left;
+	vertical-align: middle;
+	background-image: url(../images/code_bladeren.jpg);
+}
+.mainorange {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #B66F3A;
+	font-style: normal;
+	font-variant: normal;
+	text-decoration: underline;
+}
+.code {
+	width:300px;
+	height: 24px;
+	background-color: #E2E2DE;
+	border: solid 1px; 
+	border-color: #999999;
+	border-top-color: #CCCCCC;
+	text-align:left;
+	line-height: 20px;
+	padding-left: 5px;
+	padding-right: 5px;	
+}
+A:hover {
+	color: #FF9933;
+	text-decoration: underline !important;
+}
+

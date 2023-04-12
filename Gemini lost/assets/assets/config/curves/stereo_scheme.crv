@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Curves folder_count="0" count="1">
+  <Curve1 name="volume" color="-16776961" visible="1" point_count="2">
+    <Point1 position="0, 1" mode="Symmetric" left_anchor="-0.6744005, -0.001162171" right_anchor="0.6744005, 0.001162171" />
+    <Point2 position="1, 0" mode="Symmetric" left_anchor="-0.2438448, 0.0006744319" right_anchor="0.2438448, -0.0006744319" />
+  </Curve1>
+</Curves>

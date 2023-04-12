@@ -1,0 +1,101 @@
+﻿[<b><font size="30" color="283C78">Aliasworlds</font></b>]
+
+Dmitry Misko
+Vitaly Zhukovich
+Vlad Alexahin
+Anton Argunov
+Sergey Sotnikov
+Gennady Filazopovich
+Alexander Khatskevich
+Vasily Vitchenko
+Nikolay Laskevich
+Alexander Kriger
+Valentin Grishenko
+Sergey Bakavets
+Maxim Nikiforovich
+Alexandra Vitchenko
+Alexander Sukhachev
+Igor Khabibov
+Alexey Novik
+
+
+[<b><font size="30" color="283C78">PlayFirst, Inc.</font></b>]
+
+[Produtor]
+Ryan Sindledecker
+
+[Consultoria de Design e Roteiro]
+Dan Chao
+
+[Produção Sênior]
+Aaron Norstad
+
+[Gerente de Design do Jogo]
+Michael McCormick
+
+[Diretor de Arte]
+Nick Stern
+
+[Consultoria de Arte]
+Erin Middendorf
+
+[Gerente de Controle de Qualidade]
+Christopher Dunn
+
+[Chefe de Controle de Qualidade]
+Cesar Lemus
+
+[Controle de Qualidade]
+Adrian Guerrero
+Adam Gourdin
+Ryan Medina
+Victor Kunkel
+Guy Romhild (Supervisor)
+Brian DeGraf
+P. Tseren Sodbinow
+Joe Hakik
+Morgan Condict
+
+[VP e Direção de Criação]
+Kenny Shea Dinkin
+
+[Produtor Executivo]
+Craig Bocks
+
+[Marketing]
+Anne Marie Edwards
+Sean Denny
+Angela Erickson
+Ruth Grossinger
+Myles Brundage
+
+[PlayGround SDK]
+Brad Edelman
+Tim Mensch
+David Parks
+Jim Brooks
+
+[Localização]
+Aert Coppens
+
+[Agradecimentos Especiais]
+Hung Chang
+Bernt Habermeier
+Brad Simon
+Maria Waters
+Doug Cherner
+Mari Baker
+Hung Chang
+Todd Wong
+Colin Felton
+Joshua Dudley
+Ron Barry
+Tobias Tovera
+Westley von Glockner
+
+[Áudio: SomaTone Interactive Audio.]
+
+[Este jogo foi criado com o uso do Playground SDK™.]
+
+[Copyright © 2009 PlayFirst, Inc.]
+[Todos os Direitos Reservados]
